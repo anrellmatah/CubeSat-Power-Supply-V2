@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DORA__Power_Supply_V2-rescue")(type "Legacy")(uri "${KIPRJMOD}/DORA_Power_Supply_V4-rescue.lib")(options "")(descr ""))
+  (lib (name "DORA_Power_Supply_V3-rescue")(type "Legacy")(uri "${KIPRJMOD}/DORA_Power_Supply_V4-rescue.lib")(options "")(descr ""))
+)
